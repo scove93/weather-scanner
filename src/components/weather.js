@@ -13,4 +13,4 @@ const Weather = (props) => {
     )
 }
 
-export default SWeather;
+export default Weather;
