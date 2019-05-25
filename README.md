@@ -2,6 +2,8 @@
 
 A simple React.JS project that uses stateless functional components and openweathermap api.
 
+Live demo: https://scove93.github.io/weather-scanner/
+
 ##Technologies
 
 React.Js
